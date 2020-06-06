@@ -55,10 +55,10 @@ Para o desenvolvimento do projeto foi utilizada as seguintes tecnologias no Fron
 
 ```
 # Clone o repositório
-  git@github.com:Gabriel-Monteiro7/Crud.git
+  git@github.com:Gabriel-Monteiro7/Ecommerce.git
 
 # Vá para o diretório principal
-  cd Crud
+  cd Ecommerce
 ```
 
 Altere as credenciais do banco de dados que sejam referentes ao que você usa, dentro de app/config/config.php:
